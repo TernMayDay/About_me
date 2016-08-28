@@ -8,6 +8,7 @@
  - Personal Website: https://github.com/lynnchen1020
 
 ### Experience 工作經歷
+# 
 
 #### 全漢企業 (2014-2016) 網站企劃專員
  - 負責響應式網頁設計
